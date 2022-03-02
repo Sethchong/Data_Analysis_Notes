@@ -1,0 +1,5 @@
+## Creating Querey in google sheets 
+
+#### =QUERY(DATA_RANGE,"select count(B) where J contains '"&A17&"'",0 )
+
+The above code is telling google sheets to refer to another call within the query
